@@ -1,3 +1,7 @@
 def display_board
-  cell = "   "
+  puts "   |   |   "
+  puts "-----------"
+  puts "   |   |   "
+  puts "-----------"
+  puts "   |   |   "
 end
